@@ -6,6 +6,6 @@ A simple arcade style game created using [Phaser.js library](https://phaser.io/)
 
 <hr>
 
-### You can play the game at [vigneshimself.github.io/lucie-arcade-game](https://vigneshimself.github.io/lucie-arcade-game/)
+### You can play the game at [vigneshimself.github.io/simple-arcade-game](https://vigneshimself.github.io/simple-arcade-game/)
 
 <hr/>
