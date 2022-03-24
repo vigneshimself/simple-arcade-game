@@ -3,7 +3,7 @@ const gameState = {};
 
 
 function preload() {
-  this.load.image('codey', '../codey.png');
+  this.load.image('codey', '/codey.png');
 }
 
 function create() {
