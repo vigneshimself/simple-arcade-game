@@ -2,7 +2,7 @@
 const gameState = {};
 
 function preload() {
-  this.load.image("codey", "/bot.png");
+  this.load.image("codey", "bot.png");
 }
 
 function create() {
