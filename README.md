@@ -1,6 +1,6 @@
 <hr>
 
-### You can play the game at [vigneshimself.github.io/simple-arcade-game](https://vigneshimself.github.io/simple-arcade-game/)
+#### You can play the game at [vigneshimself.github.io/simple-arcade-game](https://vigneshimself.github.io/simple-arcade-game/)
 
 <hr/>
 
