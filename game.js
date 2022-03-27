@@ -19,6 +19,11 @@ function update() {
    if (gameState.cursors.left.isDown) {
 	 gameState.codey.x -= 5;
    }
+   if (gameState.cursors.up.isDown) {
+	 gameState.codey.y += 5;
+   }
+   if (gameState.cursors.down.isDown) {
+	 gameState.codey.y -= 5;
   }
 
 const config = {
