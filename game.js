@@ -2,7 +2,7 @@
 const gameState = {};
 
 function preload() {
-  this.load.image("codey", "bot.png");
+  this.load.image("codey", "https://raw.githubusercontent.com/vigneshimself/simple-arcade-game/main/bot.png");
 }
 
 function create() {
